@@ -1,6 +1,5 @@
 - 👋 Hi, I’m SHREYA
-- 👀 I’m interested in coding and creating websites
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in coding and creating websites.
 - 📫 How to reach me : email- shreyagawade1824@gmail.com
 
 <!---
